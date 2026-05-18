@@ -1,0 +1,32 @@
+Frame Data
+Resolution: 720x1280
+Avg Brightness: 78
+Scene Changes: 7.9s, 29.8s, 31.8s, 51.7s
+0.0s b=84 
+2.0s b=71 
+4.0s b=77 
+6.0s b=36 DARK
+7.9s b=118 SCENE
+9.9s b=119 
+11.9s b=116 
+13.9s b=113 
+15.9s b=116 
+17.9s b=121 
+19.9s b=119 
+21.9s b=81 
+23.8s b=83 
+25.8s b=83 
+27.8s b=80 
+29.8s b=7 SCENE,DARK
+31.8s b=78 SCENE
+33.8s b=70 
+35.8s b=79 
+37.8s b=78 
+39.7s b=77 
+41.7s b=94 
+43.7s b=53 
+45.7s b=35 DARK
+47.7s b=39 DARK
+49.7s b=90 
+51.7s b=7 SCENE,DARK
+53.7s b=50 DARK

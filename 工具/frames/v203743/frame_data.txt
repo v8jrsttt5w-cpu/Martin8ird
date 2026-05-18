@@ -1,0 +1,28 @@
+Frame Data
+Resolution: 576x1024
+Avg Brightness: 67
+Scene Changes: 21.9s, 23.9s, 39.9s
+0.0s b=73 
+2.0s b=84 
+4.0s b=71 
+6.0s b=75 
+8.0s b=85 
+10.0s b=118 
+12.0s b=108 
+14.0s b=109 
+15.9s b=81 
+17.9s b=73 
+19.9s b=56 
+21.9s b=91 SCENE
+23.9s b=40 SCENE,DARK
+25.9s b=66 
+27.9s b=42 DARK
+29.9s b=42 DARK
+31.9s b=30 DARK
+33.9s b=32 DARK
+35.9s b=28 DARK
+37.9s b=26 DARK
+39.9s b=65 SCENE
+41.9s b=68 
+43.9s b=61 
+45.9s b=90 

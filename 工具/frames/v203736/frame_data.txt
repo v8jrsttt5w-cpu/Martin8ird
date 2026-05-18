@@ -1,0 +1,53 @@
+Frame Data
+Resolution: 576x1024
+Avg Brightness: 95
+Scene Changes: 10.0s, 13.9s, 15.9s, 53.8s, 57.7s, 59.7s, 61.7s, 73.7s
+0.0s b=87 
+2.0s b=83 
+4.0s b=40 DARK
+6.0s b=11 DARK
+8.0s b=11 DARK
+10.0s b=81 SCENE
+11.9s b=86 
+13.9s b=169 SCENE
+15.9s b=82 SCENE
+17.9s b=113 
+19.9s b=120 
+21.9s b=114 
+23.9s b=106 
+25.9s b=111 
+27.9s b=114 
+29.9s b=156 
+31.9s b=115 
+33.9s b=114 
+35.8s b=120 
+37.8s b=137 
+39.8s b=135 
+41.8s b=96 
+43.8s b=102 
+45.8s b=103 
+47.8s b=106 
+49.8s b=123 
+51.8s b=113 
+53.8s b=32 SCENE,DARK
+55.8s b=26 DARK
+57.7s b=98 SCENE
+59.7s b=7 SCENE,DARK
+61.7s b=112 SCENE
+63.7s b=111 
+65.7s b=119 
+67.7s b=119 
+69.7s b=132 
+71.7s b=96 
+73.7s b=11 SCENE,DARK
+75.7s b=72 
+77.7s b=75 
+79.6s b=77 
+81.6s b=77 
+83.6s b=112 
+85.6s b=105 
+87.6s b=118 
+89.6s b=138 
+91.6s b=85 
+93.6s b=82 
+95.6s b=92 

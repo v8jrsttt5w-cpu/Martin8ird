@@ -1,0 +1,25 @@
+# Sensitive local files
+工具/cookies.json
+工具/cookies.txt
+
+# Large media assets kept locally
+*.mp4
+*.MOV
+*.mov
+*.JPG
+*.jpg
+*.jpeg
+*.png
+
+# Raw spreadsheet exports kept locally
+*.xlsx
+
+# Generated capture/frame folders
+工具/screenshots/
+工具/frames/**/*.jpg
+工具/frames/**/*.png
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
